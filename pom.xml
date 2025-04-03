@@ -77,7 +77,7 @@
         <compiler.plugin.version>3.8.1</compiler.plugin.version>
         <domino.version>0.0.92</domino.version>
         <jackson.version>2.13.1</jackson.version>
-        <jaxb.version>2.2.11</jaxb.version>
+        <jaxb.version>3.0.2</jaxb.version>
         <junit.version>5.8.2</junit.version>
         <maven-core.version>3.8.1</maven-core.version>
         <maven.compiler.source>11</maven.compiler.source>
